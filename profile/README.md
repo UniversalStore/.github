@@ -1,8 +1,8 @@
 
-<!--![My Profile Picture](https://raw.githubusercontent.com/UniversalStore/.github/main/profile/assets/favicon.png)-->
+<!--![My Profile Picture](assets/favicon.png)-->
 
 <p align="center">
-  <a href="https://universalstore.com"><img src="https://raw.githubusercontent.com/UniversalStore/.github/main/profile/assets/hello-universal.svg" width="100%" alt="Hello, Universal!" /></a>
+  <a href="https://universalstore.com"><img src="assets/hello-universal.svg" width="100%" alt="Hello, Universal!" /></a>
 </p>
 
 <p align="center"><strong>Software Engineering at Universal Store</strong> - the code behind Universal Store, Perfect Stranger and Thrills.</p>
